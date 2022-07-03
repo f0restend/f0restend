@@ -1,16 +1,14 @@
-### Hi there 👋
+## I'm beginner Java developer
 
-<!--
-**f0restend/f0restend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Language and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![SQL](https://img.shields.io/badge/SQL>-<COLOR>)
+![Java Core](https://img.shields.io/badge/Java_Core-090909)
+
+## Follow me
+
+![Linkedin](https://www.linkedin.com/sergey-deluca-)
+
+
+
