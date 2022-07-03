@@ -1,12 +1,14 @@
+![New York](https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2013/8/8/1375950469077/Lower-Manhattan-New-York.-011.jpg)
 ## Hi :) I'm beginner Java developer
 
 
-### Language and Tools
+### **Language and Tools**
 
 ![SQL](https://img.shields.io/badge/SQL>-<COLOR>)
 ![Java Core](https://img.shields.io/badge/Java_Core-090909)
 
-### Contact
+### **Contact**
 
 [Linkedin](https://www.linkedin.com/sergey-deluca)
 [Telegram](https://t.me/Joy_Bronson)
+
