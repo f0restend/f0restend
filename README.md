@@ -3,8 +3,8 @@
 
 ### Language and Tools
 
-[SQL](https://img.shields.io/badge/SQL>-<COLOR>)
-[Java Core](https://img.shields.io/badge/Java_Core-090909)
+![SQL](https://img.shields.io/badge/SQL>-<COLOR>)
+![Java Core](https://img.shields.io/badge/Java_Core-090909)
 
 ### Contact
 
