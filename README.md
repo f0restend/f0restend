@@ -9,6 +9,4 @@ Language and Tools
 ## Follow me
 
 ![Linkedin](https://www.linkedin.com/sergey-deluca-)
-
-
-
+![Telegram](https://t.me/Joy_Bronson)
